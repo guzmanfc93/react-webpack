@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "name": "react-webpack",
+  "description": "Curso de webpack, creando un proyecto react desde cero",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guzmanfc93/react-webpack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/guzmanfc93/react-webpack/issues"
+  },
+  "homepage": "https://github.com/guzmanfc93/react-webpack#readme"
+}
